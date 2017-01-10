@@ -1,0 +1,5 @@
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-02T23:51:21.135Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-02T23:51:26.151Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-02T23:51:31.159Z"}
+{"level":"info","message":"[SERVER] Koa server starting on port: 8080","timestamp":"2017-01-02T23:52:19.577Z"}
+{"level":"info","message":"[SERVER] Koa server closing","timestamp":"2017-01-02T23:52:25.096Z"}

@@ -1,0 +1,264 @@
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:00:04.204Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:00:09.213Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:00:14.225Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (6) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:00:19.236Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:00:22.051Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:00:27.081Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:00:32.092Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:00:37.098Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:00:42.111Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:00:49.112Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:00:54.123Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:00:59.145Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:01:04.159Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:01:09.171Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:01:14.607Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:01:19.642Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:01:24.650Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:01:29.658Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:01:35.302Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:01:37.097Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:01:42.136Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:01:47.146Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:01:52.154Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:01:58.856Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:02:03.893Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:02:08.898Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:02:13.904Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:02:18.912Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (6) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:02:23.929Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:02:30.054Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:02:35.067Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:02:40.076Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:02:45.084Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:02:50.095Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (6) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:02:55.104Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (7) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:03:00.121Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (8) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:03:05.130Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (9) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:03:10.143Z"}
+{"level":"error","message":"[SERVER] Retry attempt exceeded","timestamp":"2017-01-01T00:03:15.152Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:03:20.776Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:03:25.793Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:03:30.802Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:03:35.814Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:03:40.824Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (6) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:03:45.835Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (7) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:03:50.851Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (8) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:03:55.858Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (9) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:04:00.865Z"}
+{"level":"error","message":"[SERVER] Retry attempt exceeded","timestamp":"2017-01-01T00:04:05.873Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:05:55.538Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, Email Transporter","timestamp":"2017-01-01T00:06:00.549Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:06:05.556Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:06:10.569Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:06:15.579Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (6) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:06:20.588Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (7) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:06:25.599Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (8) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:06:30.607Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (9) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:06:35.619Z"}
+{"level":"error","message":"[SERVER] Retry attempt exceeded","timestamp":"2017-01-01T00:06:40.626Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:08:49.370Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: REDIS, Email Transporter","timestamp":"2017-01-01T00:08:54.417Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:08:59.432Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:09:06.087Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:09:10.729Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:09:15.748Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:09:20.756Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:09:25.765Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:09:30.778Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (6) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:09:35.795Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (7) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:09:40.816Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (8) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:09:45.824Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (9) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:09:50.831Z"}
+{"level":"error","message":"[SERVER] Retry attempt exceeded","timestamp":"2017-01-01T00:09:55.839Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:12:14.572Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:12:19.587Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:12:24.597Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:12:29.616Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:12:34.633Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:12:36.545Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:12:41.589Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:12:45.455Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:12:49.694Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:12:54.707Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:12:59.714Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:13:04.737Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:13:08.566Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:13:13.602Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:13:18.609Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:13:23.622Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:13:28.634Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (6) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:13:33.650Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (7) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:13:38.663Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:13:41.385Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:13:46.399Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:13:51.419Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:13:56.432Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:14:01.442Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (6) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:14:06.450Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:14:13.311Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:14:18.334Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:14:23.342Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:14:28.354Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:14:31.371Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:14:36.414Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:14:41.425Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:14:45.227Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:14:49.958Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:14:54.982Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:14:59.993Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:15:02.325Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:15:07.344Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:15:12.355Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:15:17.366Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:15:22.372Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (6) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:15:27.385Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (7) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:15:32.396Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (8) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:15:37.431Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (9) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:15:42.440Z"}
+{"level":"error","message":"[SERVER] Retry attempt exceeded","timestamp":"2017-01-01T00:15:47.452Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:17:28.943Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:17:32.769Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:17:37.782Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:17:42.792Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:17:47.804Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:19:30.495Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:19:35.505Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:20:18.370Z"}
+{"level":"info","message":"[SERVER] HELLO","timestamp":"2017-01-01T00:20:21.668Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:20:21.919Z"}
+{"level":"info","message":"[SERVER] HELLO","timestamp":"2017-01-01T00:20:24.561Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:20:24.778Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:20:29.788Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:20:34.797Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:20:39.818Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:20:44.834Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:20:51.185Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:20:56.202Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:21:01.208Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:21:07.174Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:21:12.186Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:22:11.052Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:22:54.090Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:22:56.179Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:22:58.460Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:23:00.931Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:23:03.133Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:23:08.153Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:23:51.849Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:23:56.894Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:24:01.903Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:24:06.914Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:24:11.929Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (6) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:24:16.943Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (7) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:24:21.951Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (8) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:24:26.960Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (9) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:24:31.972Z"}
+{"level":"error","message":"[SERVER] Retry attempt exceeded","timestamp":"2017-01-01T00:24:36.982Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:24:44.447Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:24:49.463Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:24:54.474Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, Email Transporter","timestamp":"2017-01-01T00:24:59.508Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:25:04.556Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (6) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:25:09.592Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:26:10.194Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:26:15.208Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:26:20.215Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:26:25.227Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:26:29.778Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:26:34.795Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:26:39.807Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:27:01.287Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:27:06.299Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:27:12.416Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:27:17.430Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:27:21.072Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:27:26.085Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:27:31.099Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:27:36.111Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:27:41.122Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (6) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:27:46.135Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:27:51.974Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:28:12.217Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:28:17.231Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:28:22.240Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:28:27.250Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:28:32.267Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:28:38.166Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:28:43.184Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:28:48.198Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:28:51.922Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:28:58.571Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:29:03.587Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:29:08.601Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:29:15.284Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:29:20.299Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:29:25.307Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T00:29:30.317Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS","timestamp":"2017-01-01T00:34:05.882Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS","timestamp":"2017-01-01T00:34:10.894Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS","timestamp":"2017-01-01T00:34:15.904Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS","timestamp":"2017-01-01T00:34:20.912Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS","timestamp":"2017-01-01T00:34:22.775Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS","timestamp":"2017-01-01T00:34:27.796Z"}
+{"level":"info","message":"[SERVER] Koa server starting on port: 8080","timestamp":"2017-01-01T00:34:32.845Z"}
+{"level":"error","message":"[SERVER] Disconnected from following service: REDIS","timestamp":"2017-01-01T00:34:33.861Z"}
+{"level":"error","message":"[SERVER] Disconnected from following service: MONGO","timestamp":"2017-01-01T00:34:34.913Z"}
+{"level":"info","message":"[SERVER] Reconnected to following service: REDIS","timestamp":"2017-01-01T00:34:48.935Z"}
+{"level":"info","message":"[SERVER] Reconnected to following service: MONGO","timestamp":"2017-01-01T00:34:49.947Z"}
+{"level":"error","message":"[SERVER] Disconnected from following service: MONGO","timestamp":"2017-01-01T00:34:52.978Z"}
+{"level":"info","message":"[SERVER] Reconnected to following service: MONGO","timestamp":"2017-01-01T00:35:02.992Z"}
+{"level":"error","message":"[SERVER] Disconnected from following service: MONGO","timestamp":"2017-01-01T00:35:02.997Z"}
+{"level":"error","message":"[SERVER] Disconnected from following service: REDIS","timestamp":"2017-01-01T00:35:03.550Z"}
+{"level":"info","message":"[SERVER] Koa server closing","timestamp":"2017-01-01T00:35:06.061Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T01:46:14.775Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T01:46:19.803Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T01:46:26.856Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T01:46:31.871Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, Email Transporter","timestamp":"2017-01-01T01:46:36.882Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: Email Transporter","timestamp":"2017-01-01T01:46:41.923Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: MONGO, Email Transporter","timestamp":"2017-01-01T01:46:46.935Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (6) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T01:46:52.003Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (7) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T01:46:57.071Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (8) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T01:47:02.081Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T01:47:08.024Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T01:47:13.041Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T01:47:18.052Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T01:47:23.060Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T01:47:28.074Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (6) in 5 seconds: MONGO, REDIS, Email Transporter","timestamp":"2017-01-01T01:47:33.144Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T04:11:44.635Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T04:11:49.652Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:13:59.929Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:14:04.946Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:14:09.958Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:14:15.041Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:14:20.146Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (6) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:14:25.154Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:14:59.204Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:15:04.223Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:15:09.239Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:15:14.305Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:15:19.364Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (6) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:15:24.373Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (7) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:15:29.391Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:16:20.768Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:16:25.781Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:17:26.474Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:17:31.499Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T05:17:36.506Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: Mongo, Redis","timestamp":"2017-01-01T06:12:07.299Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: Mongo, Redis","timestamp":"2017-01-01T06:12:12.312Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: Mongo, Redis","timestamp":"2017-01-01T06:12:17.322Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: Mongo, Redis","timestamp":"2017-01-01T06:12:22.377Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (5) in 5 seconds: Mongo, Redis","timestamp":"2017-01-01T06:12:27.473Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (6) in 5 seconds: Mongo, Redis","timestamp":"2017-01-01T06:12:32.482Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (7) in 5 seconds: Mongo, Redis","timestamp":"2017-01-01T06:12:37.818Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T20:06:40.014Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T20:06:45.036Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: Email Transporter","timestamp":"2017-01-01T20:06:50.081Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (4) in 5 seconds: Mongo, Redis, Email Transporter","timestamp":"2017-01-01T20:06:55.091Z"}
+{"level":"info","message":"[SERVER] Koa server starting on port: 8080","timestamp":"2017-01-01T23:04:04.018Z"}
+{"level":"info","message":"[SERVER] Koa server closing","timestamp":"2017-01-01T23:04:30.264Z"}
+{"level":"info","message":"[SERVER] Koa server starting on port: 8080","timestamp":"2017-01-01T23:06:15.306Z"}
+{"level":"info","message":"[SERVER] Koa server closing","timestamp":"2017-01-01T23:06:18.251Z"}

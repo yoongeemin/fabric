@@ -1,0 +1,34 @@
+{
+    "routes": [
+        {
+            "id": "launch",
+            "component": "Launch",
+            "connected": true
+        },
+        {
+            "id": "activate",
+            "component": "Activate",
+            "connected": true
+        },
+        {
+            "id": "app",
+            "component": "App",
+            "connected": true
+        },
+        {
+            "id": "passwordReset",
+            "component": "PasswordReset",
+            "connected": true
+        },
+        {
+            "id": "register",
+            "component": "Register",
+            "connected": true
+        },
+        {
+            "id": "signIn",
+            "component": "SignIn",
+            "connected": true
+        }
+    ]
+}

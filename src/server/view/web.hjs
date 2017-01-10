@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta content="{{csrf}}" name="csrf" />
+        <title>Fabric</title>
+    </head>
+
+    <body>
+        <div id="main">{{{main}}}</div>
+        <script>window.__INITIAL_STATE__ = {{{initialState}}}</script>
+        <script type="text/javascript" src="{{manifest}}"></script>
+        <script type="text/javascript" src="{{vendor}}"></script>
+        <script type="text/javascript" src="{{app}}"></script>
+    </body>
+</html>

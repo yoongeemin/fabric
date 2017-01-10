@@ -1,0 +1,20 @@
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: Mongo","timestamp":"2017-01-05T00:20:02.599Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: Mongo","timestamp":"2017-01-05T00:20:07.622Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: Mongo","timestamp":"2017-01-05T00:20:12.630Z"}
+{"level":"info","message":"[SERVER] Koa server starting on port: 8080","timestamp":"2017-01-05T00:20:17.712Z"}
+{"level":"info","message":"[SERVER] Koa server closing","timestamp":"2017-01-05T01:15:40.994Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (1) in 5 seconds: Mongo, Redis","timestamp":"2017-01-05T01:25:32.564Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (2) in 5 seconds: Mongo, Redis","timestamp":"2017-01-05T01:25:37.603Z"}
+{"level":"error","message":"[SERVER] Failed to connect to following services. Retrying (3) in 5 seconds: Mongo, Redis","timestamp":"2017-01-05T01:25:42.612Z"}
+{"level":"info","message":"[SERVER] Koa server starting on port: 8080","timestamp":"2017-01-05T01:25:47.736Z"}
+{"level":"info","message":"[SERVER] Koa server closing","timestamp":"2017-01-05T01:26:55.100Z"}
+{"level":"info","message":"[SERVER] Koa server starting on port: 8080","timestamp":"2017-01-05T01:28:19.541Z"}
+{"level":"info","message":"[SERVER] Koa server closing","timestamp":"2017-01-05T01:28:28.652Z"}
+{"level":"info","message":"[SERVER] Koa server starting on port: 8080","timestamp":"2017-01-05T01:29:59.776Z"}
+{"level":"info","message":"[SERVER] Koa server starting on port: 8080","timestamp":"2017-01-05T01:31:08.225Z"}
+{"level":"info","message":"[SERVER] Koa server starting on port: 8080","timestamp":"2017-01-05T01:32:39.834Z"}
+{"level":"info","message":"[SERVER] Koa server closing","timestamp":"2017-01-05T01:33:19.716Z"}
+{"level":"info","message":"[SERVER] Koa server starting on port: 8080","timestamp":"2017-01-05T01:34:33.629Z"}
+{"level":"info","message":"[SERVER] Koa server closing","timestamp":"2017-01-05T01:35:15.914Z"}
+{"level":"info","message":"[SERVER] Koa server starting on port: 8080","timestamp":"2017-01-05T01:36:09.500Z"}
+{"level":"info","message":"[SERVER] Koa server closing","timestamp":"2017-01-05T01:36:27.930Z"}

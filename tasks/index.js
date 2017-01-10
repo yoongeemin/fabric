@@ -1,0 +1,5 @@
+import "./clean"
+import "./compile"
+import "./lint"
+import "./run"
+import "./test"

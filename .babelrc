@@ -1,0 +1,13 @@
+{
+    "plugins": [
+        ["module-resolver", {
+            "root": ["./src"],
+            "alias": {
+                "app": "app",
+                "server": "server"
+            }
+        }]
+    ],
+
+    "presets": ["es2015", "stage-0", "react-native"],
+}

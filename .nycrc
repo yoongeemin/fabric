@@ -1,0 +1,15 @@
+{
+    "all": true,
+    "cache": true,
+    "instrument": false,
+    "sourceMap": false,
+    "useInlineSourceMaps": true,
+    "report-dir": "test/report/server",
+    "reporter": [
+        "lcov",
+        "text-summary"
+    ],
+    "exclude": [
+        "src/app/**/*.js"
+    ]
+}

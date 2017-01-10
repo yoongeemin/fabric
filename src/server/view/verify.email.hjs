@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>You are receiving this email because you created an account on {{appname}}</p>
+        <p>Click this <a href="{{link}}" target="_blank">link</a> to verify your email</p>
+        <p>The {{appname}} Team</p>
+    </body>
+</html>
